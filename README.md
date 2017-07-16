@@ -7,7 +7,7 @@ The following is a filter using HSL Color Space, and below shows HSL Color Space
 
 Looking forward to see your contributions, feel free to contact me anytime :).
 
-*RGB COLOR SPACE
+*HSL COLOR SPACE
 
 ![alt_text](https://image.ibb.co/bLJzza/HSL.png)
 _____________________________
